@@ -3,8 +3,8 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Prodapt</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Prodapt one</h1>
+      <h2>Hemanth</h2>
     </div>
   );
 }
