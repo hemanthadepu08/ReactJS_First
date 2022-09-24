@@ -13,6 +13,7 @@ function App() {
 export default App;
 
 // //without JSX CODE
+
 // export default function App() {
 //   return( React.createElement(React.Fragment, null, React.createElement("h1", {
 //     id: "name"
